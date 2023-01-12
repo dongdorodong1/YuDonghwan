@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+1.
+README.md에 아래 코드를 추가한다.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuDonghwan&show_icons=true&theme=radical)
 <!--
 **YuDonghwan/YuDonghwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
